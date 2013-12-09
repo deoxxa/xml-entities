@@ -1,0 +1,22 @@
+{
+  "name": "xml-entities",
+  "version": "0.0.0",
+  "description": "Stupidly simple XML 1.0 entity encoder/decoder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/xml-entities.git"
+  },
+  "keywords": [
+    "xml",
+    "entities",
+    "escape",
+    "encode",
+    "decode"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/xml-entities/issues"
+  }
+}
