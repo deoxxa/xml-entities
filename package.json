@@ -1,6 +1,6 @@
 {
   "name": "xml-entities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Stupidly simple XML 1.0 entity encoder/decoder",
   "main": "index.js",
   "repository": {
